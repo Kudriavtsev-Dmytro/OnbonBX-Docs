@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <url>
+         <loc>https://www.onbonbx.com/</loc>
+         <lastmod>2023-07-31</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="https://www.onbonbx.com/en/"/>
+         <xhtml:link rel="alternate" hreflang="zh" href="https://www.onbonbx.com/zh/"/>
+         <xhtml:link rel="alternate" hreflang="uk" href="https://www.onbonbx.com/uk/"/>
+         
+    </url>
+    <url>
+         <loc>https://www.onbonbx.com/1Specifications/page2/</loc>
+         <lastmod>2023-07-31</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="https://www.onbonbx.com/en/1Specifications/page2/"/>
+         <xhtml:link rel="alternate" hreflang="zh" href="https://www.onbonbx.com/zh/1Specifications/page2/"/>
+         <xhtml:link rel="alternate" hreflang="uk" href="https://www.onbonbx.com/uk/1Specifications/page2/"/>
+         
+    </url>
+</urlset>
