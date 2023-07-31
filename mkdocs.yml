@@ -7,8 +7,8 @@ copyright: Copyright &copy; <a href="https://github.com/Kudriavtsev-Dmytro" rel=
 
 theme:
   language: en
-  logo: ../../assets/images/OnbonBX.png
-  favicon: ../../assets/images/OnbonBX.ico
+  logo: ../../assets/images/logo/OnbonBX.png
+  favicon: ../../assets/images/logo/OnbonBX.ico
   highlightjs: true
   
   name: material
@@ -36,7 +36,7 @@ theme:
       toggle:
         icon: material/weather-night
         name: Switch to dark mode
-      primary: blue
+      primary: black
       accent: red
     - scheme: slate
       toggle:
@@ -162,22 +162,22 @@ plugins:
       # Navigation localization
       nav_translations:
         en:
-          #0Theory: Theory 
-          1Specifications: Specifications
-          #2Manuals: Manuals
-          #3SDK: SDK
+          #1Theory: Theory
+          #2Manuals: Manuals 
+          3Specifications: Specifications
+          #4SDK: SDK
         zh:
-          #0Theory: 理论 
-          1Specifications: 规格
+          #1Theory: 理论
           #2Manuals: 用户手册
-          #3SDK: SDK
+          43pecifications: 规格
+          #4SDK: SDK
         uk:
-          #0Theory: Теорія
-          1Specifications: Характеристики
+          #1Theory: Теорія
           #2Manuals: Посібники
-          #3SDK: SDK
+          3Specifications: Характеристики          
+          #4SDK: SDK
         #ru_UK:
-          #0Theory: Теория
-          #1Specifications: Спецификации
+          #1Theory: Теория
           #2Manuals: Руководства
-          #3SDK: SDK
+          #3Specifications: Спецификации          
+          #4SDK: SDK
