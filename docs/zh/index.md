@@ -9,13 +9,15 @@ OnbonBX是领先的LED显示屏控制解决方案提供商。我们的产品为�
 
 📚 **本网站的主要部分:**
 
-1. 📝 **规格：** （进行中）- 在这个部分，我们提供有关产品特性、功能和技术要求的详细信息。您将找到一个完整的技术规格列表，帮助您做出正确的选择。
-   
+1. 🎓 **理论：** （即将推出）- 本部分旨在扩展您在LED显示屏领域的知识。我们提供基本概念、技术术语和信息丰富的文章，帮助您了解我们产品背后的理论和原则。
+
 2. 📖 **用户指南：** （即将推出）- 在这个部分，我们将提供有关如何有效使用我们的产品的详细说明。您将学习如何配置和充分利用我们的解决方案，以获得最佳结果。
+
+3. 📝 **规格：** （进行中）- 在这个部分，我们提供有关产品特性、功能和技术要求的详细信息。您将找到一个完整的技术规格列表，帮助您做出正确的选择。
+
+4. 🛠️ **SDK：** （即将推出）- 对于希望将OnbonBX产品功能集成到自己应用程序中的创意开发人员，我们提供一个软件开发工具包（SDK）。通过SDK，您将获得强大的工具，帮助您创建独特和创新的管理LED显示屏的应用程序。
+
    
-3. 🛠️ **SDK：** （即将推出）- 对于希望将OnbonBX产品功能集成到自己应用程序中的创意开发人员，我们提供一个软件开发工具包（SDK）。通过SDK，您将获得强大的工具，帮助您创建独特和创新的管理LED显示屏的应用程序。
-   
-4. 🎓 **理论：** （即将推出）- 本部分旨在扩展您在LED显示屏领域的知识。我们提供基本概念、技术术语和信息丰富的文章，帮助您了解我们产品背后的理论和原则。
 
 我们希望本网站成为您可靠的信息来源。请注意，本网站仅专注于文档，是我们主要公司网站[www.onbonbx.com](https://www.onbonbx.com/)的附加内容，您可以在那里找到其他相关信息。
 
@@ -27,42 +29,42 @@ OnbonBX是领先的LED显示屏控制解决方案提供商。我们的产品为�
 
 
 
-# Contact information
+# 联系信息
 
-## Shanghai ONBON Technology Inc.
+### Shanghai ONBON Technology Inc.
 
-*Company headquarters*
+*公司总部*
 
-Address: China, Shanghai, Xuhui district, st. North Qinzhou, bilding # 88, floor 7, office # 1199.
+地址: 上海徐汇区钦州北路1199号88幢7楼
 
-Website: [www.onbonbx.com](https://www.onbonbx.com/)
+邮编：200233
 
-Mail: [onbon@onbonbx.com](mailto:onbon@onbonbx.com?subject=Suppotr)
+网站: [www.onbonbx.com](https://www.onbonbx.com/)
 
-## Kunshan ONBON Optoelectronic Industry Base
+邮件: [onbon@onbonbx.com](mailto:onbon@onbonbx.com?subject=Suppotr)
 
-*Company production*
+### Kunshan ONBON Optoelectronic Industry Base
 
-Address: China, Kunshan, st. Fuchunjiang, bilding # 1299.
+*公司生产*
 
-Website: [www.onbonbx.com](https://www.onbonbx.com/)
+地址: 国家光电产业园，富春江路1299号
 
-Mail: [onbon@onbonbx.com](mailto:onbon@onbonbx.com?subject=Suppotr)
+网站: [www.onbonbx.com](https://www.onbonbx.com/)
 
-## Suzhou iLEDcloud media technology
+邮件: [onbon@onbonbx.com](mailto:onbon@onbonbx.com?subject=Suppotr)
 
-*Company cloud media platform*
+### Suzhou iLEDcloud media technology
 
-Address: China, Suzhou, Yuexi district, st. Tayun Road, bilding # 178, floor 5, office # 1199.
+*公司云媒体平台*
 
-Website: [www.iledcloud.com](https://www.iledcloud.com)
+网站: [www.iledcloud.com](https://www.iledcloud.com)
 
-Mail: [iledcloud_service@hidisp.com](https://mailti:iledcloud_service@hidisp.com)
+邮件: [iledcloud_service@hidisp.com](https://mailti:iledcloud_service@hidisp.com)
 
-## SDK and API
+### SDK和API
 
-*Support for custom projects*
+*支持定制项目*
 
 GitHub: [github.com/onbonlab](https://github.com/onbonlab)
 
-Mail: [dev@onbonbx.com](mailto:dev@onbonbx.com)
+邮件: [dev@onbonbx.com](mailto:dev@onbonbx.com)

@@ -162,22 +162,22 @@ plugins:
       # Navigation localization
       nav_translations:
         en:
-          #1Theory: Theory
-          #2Manuals: Manuals 
-          3Specifications: Specifications
-          #4SDK: SDK
+          #1theory: Theory
+          #2manuals: Manuals 
+          3specifications: Specifications
+          #4sdk: SDK
         zh:
-          #1Theory: 理论
-          #2Manuals: 用户手册
-          43pecifications: 规格
-          #4SDK: SDK
+          #1theory: 理论
+          #2manuals: 用户手册
+          3specifications: 规格
+          #4sdk: SDK
         uk:
-          #1Theory: Теорія
-          #2Manuals: Посібники
-          3Specifications: Характеристики          
-          #4SDK: SDK
+          #1theory: Теорія
+          #2manuals: Посібники
+          3specifications: Характеристики          
+          #4sdk: SDK
         #ru_UK:
-          #1Theory: Теория
-          #2Manuals: Руководства
-          #3Specifications: Спецификации          
-          #4SDK: SDK
+          #1theory: Теория
+          #2manuals: Руководства
+          #3specifications: Спецификации          
+          #4sdk: SDK
