@@ -1,23 +1,23 @@
-## Вступ
+# Introduction
 
-Дана специфікація представляє собою опис технічних характеристик та функціональних можливостей електронних контролерів, призначених для управління світлодіодними екранами. Цей документ призначений для інженерів, розробників, виробників та інших зацікавлених сторін, які займаються проектуванням, виготовленням, налаштуванням і експлуатацією LED-дисплеїв.
+This specification is a description of the technical characteristics and functionality of electronic controllers designed to control LED screens. This document is intended for engineers, developers, manufacturers and other interested parties involved in the design, manufacture, adjustment and operation of LED displays.
 
-## Мета документа
+## Purpose of the document
 
-Головною метою цієї специфікації є надання чіткого опису електронних контролерів, що використовуються для управління світлодіодними екранами. Документ детально описує технічні характеристики, функціональні можливості та інтерфейси контролера, а також встановлює стандарти та вимоги, яким повинен відповідати контролер для забезпечення оптимальної роботи LED-дисплеїв.
+The main purpose of this specification is to provide a clear description of the electronic controllers used to control LED screens. The document describes in detail the technical characteristics, functionality and interfaces of the controller, and also establishes the standards and requirements that the controller must meet to ensure optimal operation of LED displays.
 
-## Контекст
+## Context
 
-Світлодіодні екрани широко використовуються в рекламних панелях, інформаційних табло, театральних постановках, спортивних заходах та інших подібних застосуваннях. Ефективне управління світлодіодними екранами вимагає використання високоякісних та надійних електронних контролерів, які забезпечують точність, яскравість та кольорову якість відображення.
+LED screens are widely used in advertising panels, information boards, theatrical productions, sporting events and other similar applications. Effective control of LED screens requires the use of high-quality and reliable electronic controllers that ensure accuracy, brightness and color display quality.
 
-## Структура документа
+## Document structure
 
-Цей документ складається з декількох розділів, кожен з яких зосереджений на певних аспектах електронних контролерів керування світлодіодним екраном. Він містить загальний огляд, технічні характеристики, функціональні можливості, вхідні та вихідні параметри, керування інтерфейсами, умови експлуатації, вимоги до програмного забезпечення, а також інші важливі деталі.
+This document consists of several sections, each of which focuses on a specific aspect of electronic LED screen control controllers. It contains an overview, specifications, functionality, input and output parameters, interface management, operating conditions, software requirements, and other important details.
 
-## Вимоги до читача
+## Requirements for the reader
 
-Перед використанням електронних контролерів керування світлодіодним екраном, користувачі, розробники та технічні спеціалісти повинні уважно ознайомитися з цією специфікацією. Вона містить ключову інформацію про контролери, яка допоможе ефективно використовувати їх у проектах та забезпечити оптимальну роботу світлодіодних екранів.
+Users, developers and technicians should read this specification carefully before using electronic LED screen control controllers. It contains key information about the controllers that will help you use them effectively in your projects and ensure the optimal performance of your LED screens.
 
-Будь ласка, зверніть увагу, що цей документ може оновлюватися для відображення нових вимог та технічних вдосконалень. Версії та дати оновлень будуть чітко вказані для зручності користувачів.
+Please note that this document may be updated to reflect new requirements and technical improvements. Versions and dates of updates will be clearly indicated for the convenience of users.
 
-Дякуємо за інтерес до нашої специфікації електронних контролерів керування світлодіодним екраном. Ми сподіваємося, що цей документ стане корисним джерелом інформації для вашого успішного впровадження світлодіодних екранів.
+Thank you for your interest in our LED Screen Electronic Controllers Specification. We hope this document will be a useful source of information for your successful LED screen implementation.
