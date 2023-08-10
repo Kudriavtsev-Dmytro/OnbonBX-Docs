@@ -2,10 +2,11 @@
 
 **Hello!**
 
-This repository serves as the source for ***OnbonBX*** documentations, where you'll find:
+This repository serves as the source for ***OnbonBX*** documentations https://kudriavtsev-dmytro.github.io/OnbonBX-Docs/. On this serves you'll find:
+- Theory: (coming soon)
 - Specifications (in progress)
-- User manuals  (in futures)
-- SDK and API (in futures)
+- User manuals  (coming soon)
+- SDK and API (coming soon)
 
 This website is statically generated using frameworks:
 
