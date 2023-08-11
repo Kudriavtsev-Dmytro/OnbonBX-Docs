@@ -17,6 +17,7 @@ This website is statically generated using frameworks:
 | Multi localization by i18n         | https://github.com/ultrabug/mkdocs-static-i18n               | py -m pip install mkdocs-static-i18n         |
 | Support Chinese language in search | https://squidfunk.github.io/mkdocs-material/setup/setting-up-site-search/?h=jieba#chinese-language-support | py -m pip install jieba                      |
 | Import data from a CSV or Excel    | https://timvink.github.io/mkdocs-table-reader-plugin/        | py -m pip install mkdocs-table-reader-plugin |
+| Image lightbox                     | https://blueswen.github.io/mkdocs-glightbox/                 | py -m pip install mkdocs-glightbox           |
 
 
 

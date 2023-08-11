@@ -136,6 +136,9 @@ plugins:
   # Import data from a CSV or Excel 
   - table-reader
 
+  # Image lightbox
+  - glightbox
+
   # Multilanguage localization
   - i18n:
       docs_structure: folder
