@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <url>
          <loc>https://www.onbonbx.com/</loc>
-         <lastmod>2023-08-10</lastmod>
+         <lastmod>2023-08-11</lastmod>
          <changefreq>daily</changefreq>
          <xhtml:link rel="alternate" hreflang="en" href="https://www.onbonbx.com/en/"/>
          <xhtml:link rel="alternate" hreflang="zh" href="https://www.onbonbx.com/zh/"/>
@@ -11,11 +11,20 @@
     </url>
     <url>
          <loc>https://www.onbonbx.com/3specifications/1page/</loc>
-         <lastmod>2023-08-10</lastmod>
+         <lastmod>2023-08-11</lastmod>
          <changefreq>daily</changefreq>
          <xhtml:link rel="alternate" hreflang="en" href="https://www.onbonbx.com/en/3specifications/1page/"/>
          <xhtml:link rel="alternate" hreflang="zh" href="https://www.onbonbx.com/zh/3specifications/1page/"/>
          <xhtml:link rel="alternate" hreflang="uk" href="https://www.onbonbx.com/uk/3specifications/1page/"/>
+         
+    </url>
+    <url>
+         <loc>https://www.onbonbx.com/3specifications/2quality/</loc>
+         <lastmod>2023-08-11</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="https://www.onbonbx.com/en/3specifications/2quality/"/>
+         <xhtml:link rel="alternate" hreflang="zh" href="https://www.onbonbx.com/zh/3specifications/2quality/"/>
+         <xhtml:link rel="alternate" hreflang="uk" href="https://www.onbonbx.com/uk/3specifications/2quality/"/>
          
     </url>
 </urlset>
